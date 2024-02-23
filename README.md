@@ -18,15 +18,8 @@
 
 
 
-## ```Bot Support Groups```
-<p align="center">
 
-<a href="https://chat.whatsapp.com/BrQNE6Xas4yKtJqEI3R2A5"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</p>
-
-
-# Setup For Deployment 👇
+# Setup For Deployment 
 
 - FORK THE REPOSITORY [Here](https://github.com/Kyle6012/Wave-MD/fork)
 
@@ -60,7 +53,7 @@
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
 </a>
 
-# Install Manually 👇
+# Install Manually 
 
 ## `Requirements`
 
@@ -117,7 +110,9 @@ git clone https://github.com/Kyle6012/Wave-MD
 
 cd Wave-MD
 
-rm -rf session 
+rm -rf session
+
+npm i object-query-string (incase of an error)
 
 npm start
 
