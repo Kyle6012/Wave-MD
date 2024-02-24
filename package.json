@@ -3,16 +3,7 @@
   "name": "Wave-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
-  "main": "index.js",
-  "type": "commonjs",
-  "directories": {
-    "lib": "lib",
-    "database": "database",
-    "database": "database",
-    "session": "session",
-    "media": "media",
-  },
-  
+  "main": "index.js",  
   "engines": {
     "node": "20.2.0"
   },
